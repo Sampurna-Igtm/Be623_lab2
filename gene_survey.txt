@@ -1,0 +1,5 @@
+Gene- Apolipoprotein A5
+NCBI- 116519
+Uniprot- Q6Q788
+PDB- 1B68
+
